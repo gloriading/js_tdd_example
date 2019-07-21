@@ -4,7 +4,8 @@
   "description": "JavaScript TDD - FizzBuzz ",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watchAll"
   },
   "author": "Gloria Ding",
   "license": "ISC",
