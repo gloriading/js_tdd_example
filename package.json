@@ -1,0 +1,14 @@
+{
+  "name": "js_tdd",
+  "version": "1.0.0",
+  "description": "JavaScript TDD - FizzBuzz ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gloria Ding",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
