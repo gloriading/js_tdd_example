@@ -9,7 +9,11 @@ describe('fizzBuzz', () => {
     expect(fizzBuzz(2)).toBe(2);
   });
 
-  it('returns Fizz when the input is 3', () => {
+  it('returns "Fizz" when the input is 3', () => {
     expect(fizzBuzz(3)).toEqual('Fizz');
+  });
+
+  it('returns "Fizz" when the input is multiples of 3', () => {
+    expect(fizzBuzz(6)).toEqual('Fizz');
   });
 });
