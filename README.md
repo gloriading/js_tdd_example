@@ -17,3 +17,5 @@
 3. For multiples of 5 return 'Buzz'
 
 4. For multiples of 3 and 5 return 'FizzBuzz'
+
+- From YouTube tutorial `Code With Kris` 💪🏼
