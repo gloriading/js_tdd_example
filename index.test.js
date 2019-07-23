@@ -8,4 +8,8 @@ describe('fizzBuzz', () => {
   it('returns 2 when the input is 2', () => {
     expect(fizzBuzz(2)).toBe(2);
   });
+
+  it('returns Fizz when the input is 3', () => {
+    expect(fizzBuzz(3)).toEqual('Fizz');
+  });
 });
